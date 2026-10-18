@@ -2,7 +2,7 @@
 
 **Suit 21** is a console-based Java card game for 2 to 6 players where the goal is to score exactly 21 points in a single suit. The game features a main menu, instructions, a leaderboard and gameplay against computer players with three increasing difficulty levels: easy, medium and hard.
 
-**This project was completed as part of the "Programming in Practice" module for university, using Java.**
+
 
 ---
 
